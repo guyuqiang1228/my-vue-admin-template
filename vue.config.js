@@ -29,6 +29,14 @@ module.exports = {
   assetsDir: 'static',
   lintOnSave: process.env.NODE_ENV === 'development',
   productionSourceMap: false,
+  // css: {
+  //   loaderOptions: {
+  //     // 设置 scss 公用变量文件
+  //     sass: {
+  //       additionalData: `@import "~@/assets/style/public.scss";`
+  //     }
+  //   }
+  // },
   devServer: {
     port: port,
     open: true,
