@@ -4477,10 +4477,10 @@ eslint-visitor-keys@^2.0.0:
   resolved "https://registry.npm.taobao.org/eslint-visitor-keys/download/eslint-visitor-keys-2.0.0.tgz?cache=0&sync_timestamp=1599829544231&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Feslint-visitor-keys%2Fdownload%2Feslint-visitor-keys-2.0.0.tgz#21fdc8fbcd9c795cc0321f0563702095751511a8"
   integrity sha1-If3I+82ceVzAMh8FY3AglXUVEag=
 
-eslint@7.22.0:
-  version "7.22.0"
-  resolved "https://registry.npm.taobao.org/eslint/download/eslint-7.22.0.tgz?cache=0&sync_timestamp=1615585162826&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Feslint%2Fdownload%2Feslint-7.22.0.tgz#07ecc61052fec63661a2cab6bd507127c07adc6f"
-  integrity sha1-B+zGEFL+xjZhosq2vVBxJ8B63G8=
+eslint@7.23.0:
+  version "7.23.0"
+  resolved "https://registry.npm.taobao.org/eslint/download/eslint-7.23.0.tgz?cache=0&sync_timestamp=1616792589551&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Feslint%2Fdownload%2Feslint-7.23.0.tgz#8d029d252f6e8cf45894b4bee08f5493f8e94325"
+  integrity sha1-jQKdJS9ujPRYlLS+4I9Uk/jpQyU=
   dependencies:
     "@babel/code-frame" "7.12.11"
     "@eslint/eslintrc" "^0.4.0"
@@ -10374,10 +10374,10 @@ svg-tags@^1.0.0:
   resolved "https://registry.npm.taobao.org/svg-tags/download/svg-tags-1.0.0.tgz#58f71cee3bd519b59d4b2a843b6c7de64ac04764"
   integrity sha1-WPcc7jvVGbWdSyqEO2x95krAR2Q=
 
-svgo@2.2.2:
-  version "2.2.2"
-  resolved "https://registry.npm.taobao.org/svgo/download/svgo-2.2.2.tgz?cache=0&sync_timestamp=1615306626645&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Fsvgo%2Fdownload%2Fsvgo-2.2.2.tgz#51d67c7149661282d22a3c8683f4795cdb40f687"
-  integrity sha1-UdZ8cUlmEoLSKjyGg/R5XNtA9oc=
+svgo@2.3.0:
+  version "2.3.0"
+  resolved "https://registry.npm.taobao.org/svgo/download/svgo-2.3.0.tgz?cache=0&sync_timestamp=1616929367791&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Fsvgo%2Fdownload%2Fsvgo-2.3.0.tgz#6b3af81d0cbd1e19c83f5f63cec2cb98c70b5373"
+  integrity sha1-azr4HQy9HhnIP19jzsLLmMcLU3M=
   dependencies:
     "@trysound/sax" "0.1.1"
     chalk "^4.1.0"
